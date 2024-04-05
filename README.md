@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <img height="150" width="300" alt="GIF" align="center" src="https://github.com/srijnasri/srijnasri/blob/main/gojo.gif">
 </div>
 <br>
+
 # 🌸 Welcome to Srijna's iOS Playground! 🌸
 
 Hey fellow developers! I'm diving into the exciting world of iOS development, with a focus on exploring new additions to our iOS-verse. 📱
