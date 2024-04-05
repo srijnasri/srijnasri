@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <img height="150" width="300" alt="GIF" align="center" src="https://github.com/srijnasri/srijnasri/blob/main/gojo.gif">
 </div>
 <br>
-<br>
 
 # 🌸 Welcome to Srijna's iOS Playground! 🌸
 
