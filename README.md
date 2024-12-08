@@ -1,4 +1,4 @@
-### Konichiwaa 👋
+### Namaskar 🙏
 
 <!--
 **srijnasri/srijnasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="left">
-<img height="150" width="300" alt="GIF" align="center" src="https://github.com/srijnasri/srijnasri/blob/main/gojo.gif">
-</div>
-<br>
 
 # 🌸 Welcome to Srijna's iOS Playground! 🌸
 
-Hey fellow developers! I'm diving into the exciting world of iOS development, with a focus on exploring new additions to our iOS-verse. 📱
+Hey fellow developers! 👋 I'm diving into the exciting world of iOS development, with a focus on exploring new additions to our iOS-verse. 📱
 
 ## About Me ℹ️
 
