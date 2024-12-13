@@ -30,10 +30,10 @@ I'm an iOS developer passionate about crafting beautiful and efficient apps. Cur
 - **GitHub Repository:** [Repository link](https://github.com/srijnasri/clima)
 - **Technologies Used:** Core location, UIKit, API integration etc.
 
-### Tech News 📲
-- **Description:** Tech news is an iOS application that fetches news from an news API.
-- **GitHub Repository:** [Repository link](https://github.com/srijnasri/TechNews)
-- **Technologies Used:** SwiftUI, RESTful API integration, etc.
+### DoroDoro
+- **Description:** A pomodoro timer app that helps to focus.
+- **GitHub Repository:** [Repository link](https://github.com/srijnasri/DoroDoro)
+- **Technologies Used:** SwiftUI, AVkit, etc.
 
 <!--
 [Add more projects as necessary]
